@@ -4,7 +4,7 @@
     background-size:cover;
     position:relative;
 }
-/* text css above hero image*/
+
 .hero_title {
     font-size: 4.5rem;
     
@@ -33,7 +33,6 @@
 }
 
 
-/* social media icons styling */
 .social-icons {
     font-size: 36px;
     cursor: pointer;
@@ -44,7 +43,6 @@
 .fab {
     color: #000000;
 }
-/* footer styling */
 #footer {
     background-color: #808080;
     text-align: center;
